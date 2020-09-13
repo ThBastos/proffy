@@ -62,8 +62,7 @@ function TeacherForm() {
 
     setScheduleItems(updateScheduleItems);
   }
-
-
+  
   return (
     <div id="page-teacher-form" className="container">
       <PageHeader 
